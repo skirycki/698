@@ -5,4 +5,4 @@ _this is some text_
 
 1. [Week 2 blog](Week_2)
 2. [Week 3 blog](Week_3)
-3. ![](2017-01-04.png)
+3. [Week 4 blog](Week_4)
