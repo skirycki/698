@@ -1,3 +1,11 @@
+---
+layout:
+title: "Week 2"
+date: 2017-01-12
+categories:
+---
+**Week 2**
+
 Spiro proposes five specific values for digital humanities: openness, collaboration, collegiality and connectedness, diversity, and experimentation. I will look at each of these values in turn and comment on whether I think the values should apply to history generally.
 
 Openness
